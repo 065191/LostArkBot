@@ -1,17 +1,9 @@
-##========INSTALL======= 
 ## Инструкция по установки:
 1. Скачиваем: Python 3.7  https://www.python.org/downloads/release/python-374/
 2. Следуем инструкции: https://python-scripts.com/install-python-windows
 3. Копируем содержимое архива в C:\fish
 4. Запускаем консоль (ПУСК - ВЫПОЛНИТЬ - cmd). Пишем туда cd C:\fish
 5. Пишем след строкой: pip install -r requirements.txt
-
-
-##install module
-###pyautogui  (pip3 install pyautogui)
-##cv2  (pip3 install opencv-python)
-#numpy (pip3 install numpy)
-
 
 ## Инструкции / Instruction
 1. Запускаем игру.
@@ -25,3 +17,9 @@
 1. Скрипт автоматически будет прожимать "W" когда будет кливать рыба. Автоматом перезабрасывает удочку. 
 2. Каждые 4 забрасывания прожимать "S" кнопка на которую установлена "Приманка".
 3. ДЛЯ PRO: Количество забросов регулируется в этой тсроке: number_of_fishing_rods = 150 (37 строка)
+
+#pyautogui  (pip3 install pyautogui)
+#cv2  (pip3 install opencv-python)
+#numpy (pip3 install numpy)
+
+Maden: 0ri0n
