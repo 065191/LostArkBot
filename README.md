@@ -1,3 +1,5 @@
+## Бот для Lost Ark - рыбалка. На основе ИИ (cv2)
+
 ## Инструкция по установки:
 1. Скачиваем: Python 3.7  https://www.python.org/downloads/release/python-374/
 2. Следуем инструкции: https://python-scripts.com/install-python-windows
